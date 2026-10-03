@@ -103,20 +103,6 @@ Infraestructura
  ├── Redes
  ├── TCP/IP
  └── Administración básica
-```
 
-----------
-
-## 🎯 Objetivos
-
-Mi objetivo profesional es consolidarme como **Java Backend Developer**, desarrollando experiencia real en:
-
--   Diseño y desarrollo de APIs REST.
--   Aplicaciones empresariales con Spring Boot.
--   Diseño y optimización de bases de datos.
--   Seguridad y autenticación.
--   Arquitectura de software.
--   Integración entre sistemas.
--   Buenas prácticas y código mantenible.
 
 A largo plazo, busco ampliar este perfil hacia **arquitectura de software, cloud, infraestructura y soluciones empresariales**.
